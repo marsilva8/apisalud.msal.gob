@@ -44,10 +44,10 @@ p {
 	height: 417px;
 }
 .carnet-img2 {
-	width: 682px;
+	width: 680px;
 	height: 417px;
 	position: relative;
-	left: 3px;
+	left: 10px;
 }
 .carnet-img3 {
 	width: 645px;
@@ -66,7 +66,7 @@ p {
 		height: 340px;
 	}
 	.carnet-img2{
-		width: 570px;
+		width: 565px;
 		height: 340px;
 	}
 	.carnet-img3{
@@ -88,8 +88,10 @@ p {
 		height: 150px;
 	}
 	.carnet-img2{
-		width: 244px;
+		width: 242px;
 		height: 150px;
+		position: relative;
+		left: 5px;
 	}
 	.carnet-img3{
 		width: 228px;
@@ -98,7 +100,7 @@ p {
 		left: 3px;
 	}
 	.container{
-		width: 60%;
+		width: 70%;
 		
 	}
 	
