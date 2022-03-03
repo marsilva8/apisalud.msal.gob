@@ -60,7 +60,7 @@ p {
 		height: 340px;
 	}
 	.carnet-img2{
-		width: 540px;
+		width: 570px;
 		height: 340px;
 	}
 	
@@ -68,6 +68,10 @@ p {
 @media screen and (max-width:600px){
 	body{
 		width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
 	}
 	.carnet-img{
 		width: 230px;
@@ -76,6 +80,10 @@ p {
 	.carnet-img2{
 		width: 230px;
 		height: 150px;
+	}
+	.container{
+		width: 60%;
+		
 	}
 	
 }
