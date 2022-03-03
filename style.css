@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+* {
+	box-sizing: border-box;
+	padding: 0%;
+	margin: 0%;
+	font-size: 16px;
+	font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+		Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
+		"Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+a {
+	color: #3474fe;
+}
+nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+}
+p {
+	color: rgb(20, 20, 20);
+	line-height: 1.5;
+	text-align: justify;
+}
+.container {
+	margin: 0px 135px 0px 135px;
+}
+.img-1 {
+	width: 180px;
+	height: 75px;
+	margin-top: 35px;
+}
+.carnet-flex {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 15px;
+}
+.carnet-img {
+	width: 656px;
+	height: 417px;
+}
+.carnet-img2 {
+	width: 680px;
+	height: 417px;
+	position: relative;
+	left: 3px;
+}
+
+
