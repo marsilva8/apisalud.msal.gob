@@ -44,12 +44,17 @@ p {
 	height: 417px;
 }
 .carnet-img2 {
-	width: 680px;
+	width: 682px;
 	height: 417px;
 	position: relative;
 	left: 3px;
 }
-
+.carnet-img3 {
+	width: 645px;
+	height: 417px;
+	position: relative;
+	left: 6px;
+}
 
 
 @media screen and (max-width:900px){
@@ -62,6 +67,10 @@ p {
 	}
 	.carnet-img2{
 		width: 570px;
+		height: 340px;
+	}
+	.carnet-img3{
+		width: 530px;
 		height: 340px;
 	}
 	
@@ -81,6 +90,12 @@ p {
 	.carnet-img2{
 		width: 244px;
 		height: 150px;
+	}
+	.carnet-img3{
+		width: 228px;
+		height: 150px;
+		position: relative;
+		left: 3px;
 	}
 	.container{
 		width: 60%;
